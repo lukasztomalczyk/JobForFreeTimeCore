@@ -1,0 +1,9 @@
+E:\Projekty www\Blog\WebApplication5core\WebApplication5core\bin\Debug\netcoreapp1.1\WebApplication5core.deps.json
+E:\Projekty www\Blog\WebApplication5core\WebApplication5core\bin\Debug\netcoreapp1.1\WebApplication5core.runtimeconfig.json
+E:\Projekty www\Blog\WebApplication5core\WebApplication5core\bin\Debug\netcoreapp1.1\WebApplication5core.runtimeconfig.dev.json
+E:\Projekty www\Blog\WebApplication5core\WebApplication5core\bin\Debug\netcoreapp1.1\WebApplication5core.dll
+E:\Projekty www\Blog\WebApplication5core\WebApplication5core\bin\Debug\netcoreapp1.1\WebApplication5core.pdb
+E:\Projekty www\Blog\WebApplication5core\WebApplication5core\obj\Debug\netcoreapp1.1\WebApplication5core.csprojResolveAssemblyReference.cache
+E:\Projekty www\Blog\WebApplication5core\WebApplication5core\obj\Debug\netcoreapp1.1\WebApplication5core.AssemblyInfo.cs
+E:\Projekty www\Blog\WebApplication5core\WebApplication5core\obj\Debug\netcoreapp1.1\WebApplication5core.dll
+E:\Projekty www\Blog\WebApplication5core\WebApplication5core\obj\Debug\netcoreapp1.1\WebApplication5core.pdb
